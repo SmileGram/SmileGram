@@ -1,0 +1,9 @@
+{
+	"ip":"NeverGonnaGiveRick.aternos.me",
+	"port": "33507",
+	"name": "Rick Roll",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
